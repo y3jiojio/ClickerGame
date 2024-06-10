@@ -1,0 +1,30 @@
+{
+  "name": "clicker_game",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev ",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "countries-and-timezones": "^3.6.0",
+    "firebase": "^10.12.2",
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-firebase-hooks": "^5.1.1",
+    "react-parallax-tilt": "^1.7.226",
+    "react-progressbar-fancy": "^1.1.4",
+    "sharp": "^0.33.3",
+    "use-sound": "^4.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "file-loader": "^6.2.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
